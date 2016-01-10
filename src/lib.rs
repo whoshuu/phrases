@@ -1,15 +1,2 @@
-mod english {
-    mod greetings {
-    }
-
-    mod farewells {
-    }
-}
-
-mod japanese {
-    mod greetings {
-    }
-
-    mod farewells {
-    }
-}
+mod english;
+mod japanese;
